@@ -26,11 +26,11 @@
  Contato:
  <br>
  <br>
- <a href="www.linkedin.com/in/luana-furtado-leite">
+ <a href="https://www.linkedin.com/in/luana-furtado-leite/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin-logo></a>
 <br>
 <br>
-<a href="https://github.com/luanafurtadoleite/luanafurtadoleite">
+<a href="https://github.com/luanafurtadoleite">
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=github-logo></a>
 <br>
 <br>
